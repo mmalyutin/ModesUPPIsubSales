@@ -258,7 +258,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>IAOm0QhA7LW3iyRoZLDsgkUUyhw=</dsig:DigestValue>
+        <dsig:DigestValue>UwOkQaTjzTK8guyan5KkCV5t7II=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -334,13 +334,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="ModesApiExternalApp.exe.config" size="1026">
+  <file name="ModesApiExternalApp.exe.config" size="1027">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>Y9pN7hOT8RwvX9JqFSDSwJjBDfY=</dsig:DigestValue>
+      <dsig:DigestValue>bPq1g2FNsLW5H4mNjWqlErP6qBo=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Windows Resource Kits\Tools\instsrv.exe" ModesUPPIsubSalesSrv "C:\Program Files (x86)\Windows Resource Kits\Tools\srvany.exe" 
